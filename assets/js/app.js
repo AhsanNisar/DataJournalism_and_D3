@@ -28,7 +28,7 @@ const chartGroup = svg.append("g")
 
 
 // Initial Parameters
-let chosenXAxis = "Poverty";
+let chosenXAxis = "poverty";
 
 
 
