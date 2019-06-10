@@ -1,4 +1,4 @@
-# DataJournalism_and_D3
+# DataJournalism and D3
 Technologies
 JavaScript
 D3
